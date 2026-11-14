@@ -1,0 +1,1 @@
+"""CampusAI FastAPI backend package."""

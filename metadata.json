@@ -1,0 +1,6 @@
+{
+  "name": "CampusAI — BGIEM Portal",
+  "description": "University portal and AI academic assistant for Baderia Global Institute of Engineering & Management, Jabalpur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
